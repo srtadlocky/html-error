@@ -1,0 +1,14 @@
+#seccion1 {
+    background: blue;
+    padding:20px;
+}
+.clase1 {
+    font-family:calibri;
+    text-transform:uppercase;
+    font-size:10px;
+    color:white;
+}
+#seccion1 strong {
+    color: lightseagreen;
+    font-size:20px;
+}
